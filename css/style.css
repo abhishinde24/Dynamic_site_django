@@ -79,7 +79,7 @@ p {
   position: inherit; }
 
 .navbar {
-  padding: .1rem 0; }
+  padding: 0rem 0; }
 
 .navbar-brand {
   font-size: 25px; }
@@ -248,7 +248,7 @@ p {
        } }
   @media (max-width: 576px) {
     .btn-form {
-      width: 35%;
+      width: 25%;
       border-radius: 3px; } }
 
 .search-icon {
